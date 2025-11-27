@@ -27,10 +27,11 @@ algorithms, and real-world applications.
 ---
 
 ## 🌐 Connect With Me
-Email:
+📩 Mail me at **(devarsh.v2410@gmail.com)**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/devarsh-vadera-015478298?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="10" />
   </a>
 </p>
 
